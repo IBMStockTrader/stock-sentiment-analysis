@@ -3,7 +3,7 @@
 **Version:** 1.0  
 **Last Updated:** November 2025  
 **Author:** Anand Mohan Singh  
-**Repository:** [https://github.com/anandDev77/stock-sentiment-analysis](https://github.com/anandDev77/stock-sentiment-analysis)  
+**Repository:** [https://github.com/IBMStockTrader/stock-sentiment-analysis](https://github.com/IBMStockTrader/stock-sentiment-analysis)  
 **Target Audience:** Software Architects, Senior Developers, System Designers, DevOps Engineers
 
 ---

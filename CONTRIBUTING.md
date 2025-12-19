@@ -14,7 +14,7 @@ Thank you for your interest in contributing! This document provides guidelines a
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/yourusername/stock-sentiment-analysis.git
+   git clone https://github.com/IBMStockTrader/stock-sentiment-analysis.git
    cd stock-sentiment-analysis
    ```
 3. Create a virtual environment:
