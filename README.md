@@ -1,7 +1,7 @@
 # Stock Sentiment Analysis Dashboard
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 A production-grade stock sentiment analysis application that leverages Azure OpenAI, Azure AI Search, Redis caching, and RAG (Retrieval Augmented Generation) with hybrid search to provide real-time sentiment insights for stock market analysis.
@@ -17,6 +17,20 @@ A production-grade stock sentiment analysis application that leverages Azure Ope
 - **Interactive Dashboard**: Beautiful Streamlit-based web interface with multiple analysis views
 - **Comprehensive Analytics**: Price charts, sentiment trends, news analysis, and technical indicators
 - **Demo-Ready**: Operation summaries, detailed logging, and configurable cache controls
+
+## 📸 Screenshots
+
+### Stock Search on Dashboard
+![Stock Search on Dashboard](src/public/stocksearchondashboard.png)
+
+### Stock Result on Dashboard
+![Stock Result on Dashboard](src/public/stockresultondashboard.png)
+
+### Stock Search on Buy/Sell
+![Stock Search on Buy/Sell](src/public/stockserachonbuysell.png)
+
+### Stock Result on Buy/Sell
+![Stock Result on Buy/Sell](src/public/stockresultonbuysell.png)
 
 ## 📋 Table of Contents
 
@@ -45,7 +59,7 @@ A production-grade stock sentiment analysis application that leverages Azure Ope
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/stock-sentiment-analysis.git
+git clone https://github.com/IBMStockTrader/stock-sentiment-analysis.git
 cd stock-sentiment-analysis
 ```
 
@@ -479,7 +493,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
 ## Documentation
 
